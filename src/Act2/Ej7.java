@@ -10,7 +10,7 @@ public class Ej7 {
         System.out.println("2) Saluda 5 veces");
         System.out.println("3) Salir");
 
-        int menu = sc.nextInt();
+        int menu = sc.nextInt( );
 
         switch (menu) {
             case 1 -> System.out.println("Hola,buendo dias");

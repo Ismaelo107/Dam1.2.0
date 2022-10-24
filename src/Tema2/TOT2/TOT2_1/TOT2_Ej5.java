@@ -1,4 +1,4 @@
-package TOT2.TOT2_1;
+package Tema2.TOT2.TOT2_1;
 
 
 import java.util.Scanner;

@@ -1,15 +1,15 @@
-package Act1;
+package Tema3.Class;
 
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Ej8 {
+public class Ej21 {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
+        System.out.println("Introducir nota: ");
+        int nota = sc.nextInt();
 
-        int num = sc.nextInt();
-
-        switch (num) {
+        switch (nota) {
             case 1 -> System.out.println("Uno");
             case 2 -> System.out.println("Dos");
             case 3 -> System.out.println("Tres");
@@ -21,6 +21,5 @@ public class Ej8 {
             case 9 -> System.out.println("Nueve");
             case 10 -> System.out.println("Diez");
         }
-
     }
 }

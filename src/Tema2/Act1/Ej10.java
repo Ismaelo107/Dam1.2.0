@@ -1,4 +1,4 @@
-package Act1;
+package Tema2.Act1;
 
 import java.util.Scanner;
 

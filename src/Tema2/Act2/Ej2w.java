@@ -1,4 +1,4 @@
-package Act2;
+package Tema2.Act2;
 
 public class Ej2w {
     public static void main(String[] args) {
